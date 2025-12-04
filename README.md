@@ -1,2 +1,2 @@
 # Data-Structures
-This course is the next learning of Algorithm and Programming 
+This is my project of the next learning of Algorithm and Programming 
